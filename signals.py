@@ -148,6 +148,9 @@ OUR_MIME_TYPES = {
     "application/x-mac-dmg": ".dmg",
     "application/postscript-ps": ".ps",
     "application/postscript-ai": ".ai",
+
+    # medical images
+    "application/dicom": ".dcm",
 }
 
 def get_parser(*args, **kwargs):

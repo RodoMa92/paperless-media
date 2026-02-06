@@ -1,3 +1,10 @@
 # IDE Related
 .idea
 .vscode
+
+# Virtualenv related
+.venv
+__pycache__
+
+#Testing framework
+.pytest_cache
